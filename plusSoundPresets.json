@@ -1,0 +1,24 @@
+[
+  {
+    "name": "AzuraHorizons (F)",
+    "READY": "https://jstrisplus.github.io/jstris-plus-assets/sfx/readyAzura.wav",
+    "PB": "https://jstrisplus.github.io/jstris-plus-assets/sfx/personalBestAzura.wav"
+  },
+  {
+    "name": "Dalicious (M)",
+    "READY": "https://jstrisplus.github.io/jstris-plus-assets/sfx/ready.wav",
+    "PB": "https://jstrisplus.github.io/jstris-plus-assets/sfx/personalBest.wav"
+  },
+  {
+    "name": "Sinewave (M)",
+    "READY": "https://jstrisplus.github.io/jstris-plus-assets/sfx/readySine.wav",
+    "PB": "https://jstrisplus.github.io/jstris-plus-assets/sfx/personalBestSine.wav"
+  },
+  {
+    "name": "TETR.IO PB",
+    "PB": "https://konsola5.github.io/jstris_sounds/tetriopb.wav"
+  },
+  {
+    "name": "None"
+  }
+]
