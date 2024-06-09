@@ -219,6 +219,140 @@
     }
   },
   {
+    "name": "TETR.IO Sound Pack",
+    "rotate": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/rotate.ogg",
+    "land": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/hit.ogg",
+    "harddrop": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/harddrop.ogg",
+    "lock": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/floor.ogg",
+    "ready": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/ready.ogg",
+    "go": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/go.ogg",
+    "died": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/topout.ogg",
+    "hold": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/hold.ogg",
+    "move": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/move.ogg",
+    "golive": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/go.ogg",
+    "comboTones": [
+      null,
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_1.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_2.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_3.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_4.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_5.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_6.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_7.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_8.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_9.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_10.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_11.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_12.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_13.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_14.ogg",
+      "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_15.ogg"
+    ],
+    "scoring": {
+      "CLEAR1": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearline.ogg",
+      "CLEAR2": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearline.ogg",
+      "CLEAR3": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearline.ogg",
+      "CLEAR4": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearquad.ogg",
+      "TSPIN": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/spinend.ogg",
+      "TSPIN_MINI": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/spinend.ogg",
+      "TSPIN_MINI_SINGLE": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearspin.ogg",
+      "TSPIN_SINGLE": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearspin.ogg",
+      "TSPIN_DOUBLE": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearspin.ogg",
+      "TSPIN_TRIPLE": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearspin.ogg",
+      "PERFECT_CLEAR": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/allclear.ogg"
+    },
+    "spawns": {
+      "I": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/i.ogg",
+      "O": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/o.ogg",
+      "T": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/t.ogg",
+      "L": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/l.ogg",
+      "J": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/j.ogg",
+      "S": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/s.ogg",
+      "Z": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/z.ogg"
+    },
+    "specialScoring": {
+      "CLEAR4": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearbtb.ogg",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "TSPINORTETRIS": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_2_power.ogg",
+          "combo": 2,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_3_power.ogg",
+          "combo": 3,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_4_power.ogg",
+          "combo": 4,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_5_power.ogg",
+          "combo": 5,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_6_power.ogg",
+          "combo": 6,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_7_power.ogg",
+          "combo": 7,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_8_power.ogg",
+          "combo": 8,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_9_power.ogg",
+          "combo": 9,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_10_power.ogg",
+          "combo": 10,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_11_power.ogg",
+          "combo": 11,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_12_power.ogg",
+          "combo": 12,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_13_power.ogg",
+          "combo": 13,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_14_power.ogg",
+          "combo": 14,
+          "override": false
+        },
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/combo_15_power.ogg",
+          "combo": 15,
+          "override": false
+        }
+      ]
+    }
+  },
+  {
     "name": "Tetris Online Japan Sound Pack",
     "harddrop": "https://ecdldaiiere.github.io/Eddiez-Soundz/TOP_lock.wav",
     "rotate": "https://ecdldaiiere.github.io/Eddiez-Soundz/TOP_rotate.wav",
