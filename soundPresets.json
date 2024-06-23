@@ -637,6 +637,7 @@
     "lock": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/lock.wav",
     "ready": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/ready.wav",
     "go": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/go.wav",
+    "move": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/move.ogg",
     "golive": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/go.wav",
     "died": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/gameover.wav",
     "hold": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/hold.wav",
