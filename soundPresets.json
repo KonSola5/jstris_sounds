@@ -628,67 +628,172 @@
     }
   },
   {
-  "name": "Techmino Sound Pack",
-  "rotate": "https://konsola5.github.io/jstris_sounds/TechminoSounds/rotate.mp3",
-  "land": "https://konsola5.github.io/jstris_sounds/TechminoSounds/touch.mp3",
-  "linefall": "https://konsola5.github.io/jstris_sounds/TechminoSounds/fall.mp3",
-  "harddrop": "https://konsola5.github.io/jstris_sounds/TechminoSounds/drop.mp3",
-  "success": "https://konsola5.github.io/jstris_sounds/TechminoSounds/win.mp3",
-  "lock": "https://konsola5.github.io/jstris_sounds/TechminoSounds/lock.mp3",
-  "ready": "https://konsola5.github.io/jstris_sounds/TechminoSounds/ready.mp3",
-  "go": "https://konsola5.github.io/jstris_sounds/TechminoSounds/go.mp3",
-  "golive": "https://konsola5.github.io/jstris_sounds/TechminoSounds/go.mp3",
-  "died": "https://konsola5.github.io/jstris_sounds/TechminoSounds/fail.mp3",
-  "hold": "https://konsola5.github.io/jstris_sounds/TechminoSounds/hold.mp3",
-  "garbage": "https://konsola5.github.io/jstris_sounds/TechminoSounds/warn_1.mp3",
-  "fault": "https://konsola5.github.io/jstris_sounds/TechminoSounds/finesseError.mp3",
-  "comboTones": [
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_1.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_2.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_3.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_4.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_5.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_6.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_7.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_8.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_9.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_10.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
-    "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_mega.mp3"
-  ],
-  "scoring": {
-    "HARD_DROP": "https://konsola5.github.io/jstris_sounds/TechminoSounds/drop.mp3",
-    "CLEAR1": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_1.mp3",
-    "CLEAR2": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_2.mp3",
-    "CLEAR3": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_3.mp3",
-    "CLEAR4": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_4.mp3",
-    "CLEAR5": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_5.mp3",
-    "TSPIN": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_0.mp3",
-    "TSPIN_MINI": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_0.mp3",
-    "TSPIN_MINI_SINGLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_1.mp3",
-    "TSPIN_SINGLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_1.mp3",
-    "TSPIN_DOUBLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_2.mp3",
-    "TSPIN_TRIPLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_3.mp3",
-    "PERFECT_CLEAR": "https://konsola5.github.io/jstris_sounds/TechminoSounds/pc.mp3"
+    "name": "NullpoMino Sound Pack",
+    "rotate": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/rotate.wav",
+    "land": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/step.wav",
+    "linefall": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/linefall.wav",
+    "harddrop": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/lock.wav",
+    "success": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/excellent.wav",
+    "lock": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/lock.wav",
+    "ready": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/ready.wav",
+    "go": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/go.wav",
+    "golive": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/go.wav",
+    "died": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/gameover.wav",
+    "hold": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/hold.wav",
+    "comboTones": [
+      null,
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_1.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_2.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_3.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_4.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_5.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_6.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_7.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_8.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_9.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_10.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_11.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_12.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_13.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_14.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_15.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_16.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_17.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_18.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_19.wav",
+      "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/combo_20.wav"
+    ],
+    "scoring": {
+      "HARD_DROP": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/lock.wav",
+      "CLEAR1": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/erase1.wav",
+      "CLEAR2": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/erase2.wav",
+      "CLEAR3": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/erase3.wav",
+      "CLEAR4": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/erase4.wav",
+      "CLEAR5": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/erase4.wav",
+      "TSPIN": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/tspin0.wav",
+      "TSPIN_MINI": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/tspin0.wav",
+      "TSPIN_MINI_SINGLE": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/tspin1.wav",
+      "TSPIN_SINGLE": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/tspin1.wav",
+      "TSPIN_DOUBLE": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/tspin2.wav",
+      "TSPIN_TRIPLE": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/tspin3.wav",
+      "PERFECT_CLEAR": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/bravo.wav"
+    },
+    "specialScoring": {
+      "TSPIN_MINI_SINGLE": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/b2b_tspin1.wav",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "TSPIN_SINGLE": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/b2b_tspin1.wav",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "TSPIN_DOUBLE": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/b2b_tspin2.wav",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "TSPIN_TRIPLE": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/b2b_tspin3.wav",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "CLEAR4": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/b2b_erase4.wav",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "CLEAR5": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/b2b_erase4.wav",
+          "b2b": true,
+          "override": true
+        }
+      ]
+    },
+    "spawns": {
+      "I": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece0.wav",
+      "O": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece2.wav",
+      "T": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece4.wav",
+      "L": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece1.wav",
+      "J": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece5.wav",
+      "S": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece3.wav",
+      "Z": "https://konsola5.github.io/jstris_sounds/NullpoMinoSounds/piece6.wav"
+    }
   },
-  "specialScoring": {
-    "ALLSPIN": [
-      {
-        "url": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_0.mp3"
-      },
-      {
-        "url": "hhttps://konsola5.github.io/jstris_sounds/TechminoSounds/spin_1.mp3"
-      },
-      {
-        "url": "hhttps://konsola5.github.io/jstris_sounds/TechminoSounds/spin_2.mp3"
-      },
-      {
-        "url": "hhttps://konsola5.github.io/jstris_sounds/TechminoSounds/spin_3.mp3"
-      }
-    ]
+  {
+    "name": "Techmino Sound Pack",
+    "rotate": "https://konsola5.github.io/jstris_sounds/TechminoSounds/rotate.mp3",
+    "land": "https://konsola5.github.io/jstris_sounds/TechminoSounds/touch.mp3",
+    "linefall": "https://konsola5.github.io/jstris_sounds/TechminoSounds/fall.mp3",
+    "harddrop": "https://konsola5.github.io/jstris_sounds/TechminoSounds/drop.mp3",
+    "success": "https://konsola5.github.io/jstris_sounds/TechminoSounds/win.mp3",
+    "lock": "https://konsola5.github.io/jstris_sounds/TechminoSounds/lock.mp3",
+    "ready": "https://konsola5.github.io/jstris_sounds/TechminoSounds/ready.mp3",
+    "go": "https://konsola5.github.io/jstris_sounds/TechminoSounds/go.mp3",
+    "golive": "https://konsola5.github.io/jstris_sounds/TechminoSounds/go.mp3",
+    "died": "https://konsola5.github.io/jstris_sounds/TechminoSounds/fail.mp3",
+    "hold": "https://konsola5.github.io/jstris_sounds/TechminoSounds/hold.mp3",
+    "garbage": "https://konsola5.github.io/jstris_sounds/TechminoSounds/warn_1.mp3",
+    "fault": "https://konsola5.github.io/jstris_sounds/TechminoSounds/finesseError.mp3",
+    "comboTones": [
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_1.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_2.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_3.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_4.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_5.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_6.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_7.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_8.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_9.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_10.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_11.mp3",
+      "https://konsola5.github.io/jstris_sounds/TechminoSounds/ren_mega.mp3"
+    ],
+    "scoring": {
+      "HARD_DROP": "https://konsola5.github.io/jstris_sounds/TechminoSounds/drop.mp3",
+      "CLEAR1": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_1.mp3",
+      "CLEAR2": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_2.mp3",
+      "CLEAR3": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_3.mp3",
+      "CLEAR4": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_4.mp3",
+      "CLEAR5": "https://konsola5.github.io/jstris_sounds/TechminoSounds/clear_5.mp3",
+      "TSPIN": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_0.mp3",
+      "TSPIN_MINI": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_0.mp3",
+      "TSPIN_MINI_SINGLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_1.mp3",
+      "TSPIN_SINGLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_1.mp3",
+      "TSPIN_DOUBLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_2.mp3",
+      "TSPIN_TRIPLE": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_3.mp3",
+      "PERFECT_CLEAR": "https://konsola5.github.io/jstris_sounds/TechminoSounds/pc.mp3"
+    },
+    "specialScoring": {
+      "ALLSPIN": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TechminoSounds/spin_0.mp3"
+        },
+        {
+          "url": "hhttps://konsola5.github.io/jstris_sounds/TechminoSounds/spin_1.mp3"
+        },
+        {
+          "url": "hhttps://konsola5.github.io/jstris_sounds/TechminoSounds/spin_2.mp3"
+        },
+        {
+          "url": "hhttps://konsola5.github.io/jstris_sounds/TechminoSounds/spin_3.mp3"
+        }
+      ]
+    }
   }
-}
 ]
