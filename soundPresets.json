@@ -253,6 +253,7 @@
       "CLEAR2": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearline.ogg",
       "CLEAR3": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearline.ogg",
       "CLEAR4": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearquad.ogg",
+      "CLEAR5": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearquad.ogg",
       "TSPIN": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/spinend.ogg",
       "TSPIN_MINI": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/spinend.ogg",
       "TSPIN_MINI_SINGLE": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearspin.ogg",
@@ -272,6 +273,13 @@
     },
     "specialScoring": {
       "CLEAR4": [
+        {
+          "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearbtb.ogg",
+          "b2b": true,
+          "override": true
+        }
+      ],
+      "CLEAR5": [
         {
           "url": "https://konsola5.github.io/jstris_sounds/TETRIO_Sounds/clearbtb.ogg",
           "b2b": true,
